@@ -1,8 +1,4 @@
 # Abaya & Hijab E-Commerce Shop
-
-![Project Banner](image-1.png)
-![Product Details](image-2.png)
-
 ## Description
 
 Welcome to our Abaya & Hijab E-Commerce Shop! This project aims to provide a seamless online shopping experience for purchasing abayas and hijabs. Our platform showcases a wide range of high-quality abayas and hijabs, catering to various styles and preferences. Users can browse, select, and purchase products easily through our user-friendly interface.
